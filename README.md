@@ -18,7 +18,8 @@ through data analysis.
 
 # Eco-friendly Vehicle Detection & Carbon Emission Analysis 🌍🚗
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social) ![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mehu_11/Eco_friendly_Vehicle_Detection_using_yolo_v5?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/mehu_11/Eco_friendly_Vehicle_Detection_using_yolo_v5?style=social)
 
 A B.Tech final year project that leverages the YOLOv5s model to detect vehicles and classify them as eco-friendly or non-eco-friendly to perform a real-time carbon emission analysis.
 
